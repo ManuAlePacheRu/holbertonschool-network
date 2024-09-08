@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# erer
+nc -l 98
